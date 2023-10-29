@@ -1,0 +1,42 @@
+{
+  "album": {
+    "adobe": {
+      "categories": {
+        "vertical": {
+          "links": [
+            "https://cubari.moe/read/gist/cmF3L3VJcGV4L0F0dGFjay1vbi1UaXRhbi1HYWxsZXJ5L21hc3Rlci9WZXJ0aWNhbCUyMEV4dGVuZGVkJTIwRnJhbWVzLmpzb24/"
+          ],
+          "seasons": {
+            "1": {
+              "1": []
+            },
+            "2": {}
+          }
+        },
+        "horizontal": {
+          "links": [
+            "https://cubari.moe/read/gist/cmF3L3VJcGV4L0F0dGFjay1vbi1UaXRhbi1HYWxsZXJ5L21hc3Rlci9Ib3Jpem9udGFsJTIwRXh0ZW5kZWQlMjBGcmFtZXMuanNvbg/"
+          ],
+          "seasons": {
+            "1": {
+              "1": []
+            },
+            "2": {}
+          }
+        }
+      }
+    },
+    "frames": {
+      "links": ["cubari.moe", "cubari.moe"],
+      "seasons": {
+        "1": {
+          "1": ["imgur"]
+        },
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      }
+    }
+  }
+}

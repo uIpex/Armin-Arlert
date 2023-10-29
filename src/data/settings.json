@@ -1,0 +1,12 @@
+{
+  "server": {
+    "guildID": "954971803837677589",
+    "mangaRole": "1087558121653801041",
+    "mangaChannels": ["1037933582074781796"],
+    "ruleChannel": "1080913750112092160"
+  },
+  "ticks": {
+    "spoilerLimit": 134,
+    "pinLimit": 4
+  }
+}
